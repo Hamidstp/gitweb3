@@ -40,7 +40,7 @@ CELESTIA_WALLET="MY_
 CELESTIA_CHAIN="mamaki"
 CELESTIA_NODENAME=celestia.
 CELESTIA_WALLET=""
-CELESTIA_CHAIN="mamaki"
+CELESTIA_CHAIN=
 
 ----------------------------------------------------------
 echo 'export CELESTIA_CHAIN='$CELESTIA_CHAIN >> $HOME/.bash_profile
