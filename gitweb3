@@ -72,7 +72,7 @@ sed -i 's/peer-gossip-sleep-duration *=.*/peer-gossip-sleep-duration = "2ms"/g' 
 
 -----------------------------------------------------------------
 max_num_inbound_peers=2
-max_num_outbound_peers=10 
+max_num_outbound_peers
 max_connec
 
 ----------------------------------------------------------------
