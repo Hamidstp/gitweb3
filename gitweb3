@@ -35,7 +35,7 @@ rm -rf
 git clone https://github.com/celestia.git
 
 --------------------------
-CELESTIA_NODENAME="MY_NODE" 
+CELESTIA_NODENAME="MY_NODE"hamid
 CELESTIA_WALLET="MY_
 CELESTIA_CHAIN="mamaki"
 CELESTIA_NODENAME=celestia.
