@@ -52,7 +52,8 @@ source $HOME/.bash_profile
 celestia-appd init $CELESTIA_NODENAME --chain-id $CELE
 
 -------------------------------------
-cp $HOME/networks/mamaki/genesis.json $HOME/.celestia-app/config/
+cp $HOME/networks/mamaki/genesis.json $HOME/.celestia-app/con
+
 
 ---------------------------------------
 sed -i 's/mode = \"full\"/mode = \"validator\"/g' $HOME/.celestia-app/config
