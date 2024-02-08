@@ -52,7 +52,7 @@ source $HOME/.bash_profile
 celestia-appd init $CELESTIA_NODENAME --chain-id $CELE
 
 -------------------------------------
-cp $HOME/networks/mamaki/genesis.json $HOME/.celestia-app/con
+cp $HOME/networks/mamaki/genesis.json $HOME/.celestia-app/coningggt
 
 
 ---------------------------------------
