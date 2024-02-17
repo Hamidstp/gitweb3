@@ -16,7 +16,7 @@ echo "exort PATH=$PATH:/usr/local/go/bin:$HOME/go/bin" >>
 source $HOME/.bash_profile
 
 ---------------------------------------------------
-go version
+go version 1.21.6
 
 --------------------------
 cd
