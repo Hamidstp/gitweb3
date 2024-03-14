@@ -48,7 +48,7 @@ echo 'export CELESTIA_NODENAME='${CELESTIA_NODENAME} >> $HOME/.bash
 echo 'export CELESTIA_WALLET='${CELESTIA_WALLET} >> $HOME/.bash
 source $HOME/.bash_profile
 
-------------------------------------------------
+-----------------------------------------------
 celestia-appd init $CELESTIA_NODENAME --chain-id $CELE
 
 -------------------------------------
