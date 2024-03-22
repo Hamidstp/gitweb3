@@ -21,7 +21,7 @@ go version 1.21.6
 -----------------------
 cd
 rm -rf celestia-app
-git clone https://github.com/celestiaorg/celestia
+git clone https://github.com/celestiaorg/celest
 cd celestia-app
 git check v0.6.5
 make in
